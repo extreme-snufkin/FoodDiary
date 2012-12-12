@@ -1,0 +1,36 @@
+/*
+ * Title   : Food Diary
+ * 
+ * Version : 0.1
+ * Author  : Tohru Mashiko
+ * License : Copyright (c) 2012 Tohru Mashiko
+ *           <a href="http://www.opensource.org/licenses/mit-license.php">The MIT License</a>
+ *           ※The copyright holder of jQuery Mobile DateBox, please refer to the following site.
+ *             https://github.com/jtsage/jquery-mobile-datebox
+ */
+/* アプリ名設定 */
+.appname {
+	color:#99ab4e; /* 文字色 */
+}
+.foodname {
+	color:#99ab4e; /* 文字色 */
+}
+.foodtype {
+	color:#ff8c00; /* 文字色 */
+}
+.footerbutton {
+	text-align: center;
+}
+.photowrapper {
+	width:290px;
+	height:240px;
+	line-height:240px; /* heightと同じ値 */
+	text-align:center;
+	vertical-align:middle;
+}
+.camPhoto{
+      vertical-align:middle;
+ }
+.fieldtype{
+      text-align: center;
+ }
